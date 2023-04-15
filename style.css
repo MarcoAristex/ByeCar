@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     
     
@@ -63,4 +64,28 @@ main{
     flex-direction: row;
     align-items: center;
     
+=======
+body{
+    
+    background-color: rgb(48, 48 , 48);
+    align-items: center;
+    color: rgb(239, 235, 228);
+    font-family: verdana;
+
+}
+
+header{
+    color: rgb(239, 235, 228);
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 20vw 33vw;
+    align-items: center;
+    
+}
+header img{
+    width: 100px;
+    height: 50px;
+   /* border: 1px solid rgb(235, 51, 51);  */
+  
+>>>>>>> e23f24e86764db56f21e483bad3ea19e1d9939b6
 }
